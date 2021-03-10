@@ -1,5 +1,5 @@
 # datasci_testrepo
 This repo serves as a sandbox for repo team management
 
-
-Test Trial
+Team Member 1: Annika Faucon
+This is the Update after pulling
